@@ -38,7 +38,7 @@ pip install pyserial
 2. Run the script:
 
 ```bash
-python serial_console.py
+python ConsoleUSBTalk.py
 ```
 
 3. Follow the prompts:
