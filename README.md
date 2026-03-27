@@ -44,7 +44,7 @@ python ConsoleUSBTalk.py
 3. Follow the prompts:
 
    * Select a COM port from the list
-   * Enter the baud rate (must match your ESP code)
+   * Enter the baud rate (must match your ESP code). 115200 schould be the default setting for the most new ESP's.
 
 4. Start typing to send data
    Incoming messages from the ESP will appear automatically
